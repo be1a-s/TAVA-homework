@@ -1,17 +1,17 @@
 #ვქმნი რამოდენიმე ტიპის ცვლადს 
-name = ("beqa")
+name = "beqa"
 
-surname = ("abuladze")
+surname = "abuladze"
 
-coordinate = ("xulo aghmashenebelis qucha nomeri 7")
+coordinate = "xulo aghmashenebelis qucha nomeri 7"
 
-age = (15)
+age = 15
 
-weight = (55)
+weight = 55
 
-height = (1.61)
+height = 1.61
 
-hobby = ("fexburti")
+hobby = "fexburti"
 
 # ვპრინტავ გრძელი წინადადებას სამი ტიპის ცვლადით ჩემს შესახებ
 
